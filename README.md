@@ -1,0 +1,1 @@
+Ecommerce desarrollado con Python y Django.
